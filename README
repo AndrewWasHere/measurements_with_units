@@ -1,0 +1,4 @@
+Measurements With Units
+
+A set of C++ classes demonstrating the integration of units with measurements classes (e.g. time in seconds, distance in furlongs)
+and their interactions with each other.
